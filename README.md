@@ -1,4 +1,4 @@
 # funnyQuestion
 This is Funny Question for enjoy .
 <br>
-Author - Ankush Patidar
+Author - Ankush Patidar()
